@@ -23,4 +23,4 @@ Have some code you wanna add to the repo? Let me know through an private message
 
 ## License
 
-This repo is listed with a [MIT license]() which allows this to be used for commercial use, personal use and distribution and allows for modification of the source BUT does NOT allow me to be liable for what you do with the source and does not offer any warranty.
+This repo is listed with a [MIT license](https://github.com/eduhdev12/to-do-list/blob/master/LICENSE) which allows this to be used for commercial use, personal use and distribution and allows for modification of the source BUT does NOT allow me to be liable for what you do with the source and does not offer any warranty.
