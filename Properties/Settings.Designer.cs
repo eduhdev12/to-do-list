@@ -274,5 +274,125 @@ namespace ToDoList.Properties {
                 this["topbox"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool onemain {
+            get {
+                return ((bool)(this["onemain"]));
+            }
+            set {
+                this["onemain"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool twomain {
+            get {
+                return ((bool)(this["twomain"]));
+            }
+            set {
+                this["twomain"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool threemain {
+            get {
+                return ((bool)(this["threemain"]));
+            }
+            set {
+                this["threemain"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool fourmain {
+            get {
+                return ((bool)(this["fourmain"]));
+            }
+            set {
+                this["fourmain"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool fivemain {
+            get {
+                return ((bool)(this["fivemain"]));
+            }
+            set {
+                this["fivemain"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool sixmain {
+            get {
+                return ((bool)(this["sixmain"]));
+            }
+            set {
+                this["sixmain"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool sevenmain {
+            get {
+                return ((bool)(this["sevenmain"]));
+            }
+            set {
+                this["sevenmain"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool eightmain {
+            get {
+                return ((bool)(this["eightmain"]));
+            }
+            set {
+                this["eightmain"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool ninemain {
+            get {
+                return ((bool)(this["ninemain"]));
+            }
+            set {
+                this["ninemain"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool tenmain {
+            get {
+                return ((bool)(this["tenmain"]));
+            }
+            set {
+                this["tenmain"] = value;
+            }
+        }
     }
 }

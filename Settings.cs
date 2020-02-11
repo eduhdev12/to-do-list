@@ -26,6 +26,9 @@ namespace ToDoList
 {
     public partial class Settings : MetroFramework.Forms.MetroForm
     {
+
+        int checkedd;
+
         public Settings()
         {
             InitializeComponent();
@@ -55,6 +58,19 @@ namespace ToDoList
             Properties.Settings.Default.tenbox = metroCheckBox10.Checked;
             Properties.Settings.Default.tentext = metroTextBox10.Text;
             Properties.Settings.Default.topbox = topmostcheck.Checked;
+            if (checkedd == 1)
+            {
+                Properties.Settings.Default.onemain = false;
+                Properties.Settings.Default.twomain = false;
+                Properties.Settings.Default.threemain = false;
+                Properties.Settings.Default.fourmain = false;
+                Properties.Settings.Default.fivemain = false;
+                Properties.Settings.Default.sixmain = false;
+                Properties.Settings.Default.sevenmain = false;
+                Properties.Settings.Default.eightmain = false;
+                Properties.Settings.Default.ninemain = false;
+                Properties.Settings.Default.tenmain = false;
+            }
             Properties.Settings.Default.Save();
             var Main = new Main();
             Main.Show();
@@ -110,6 +126,7 @@ namespace ToDoList
             metroTextBox8.Text = "";
             metroTextBox9.Text = "";
             metroTextBox10.Text = "";
+            checkedd = 1;
         }
 
         private void metroLabel1_Click(object sender, EventArgs e)
