@@ -1,6 +1,6 @@
 # To do list | Open Source C# to do list activities organizer
 
-I will kepp updating the app, I want to add more feautures in time and I want to make more activities and other things!
+I will keep updating the app, I want to add more feautures in time and I want to make more activities and other things!
 Contact me: eduhdev12#2361
 
 If you don t want to compile the app check the [Releases](https://github.com/eduhdev12/to-do-list/releases)
